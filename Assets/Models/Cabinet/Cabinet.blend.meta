@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: e7eb8e21058c051489703ea92a5713e0
+timeCreated: 1452728256
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CabinetBody
+    100004: CabinetDrawers_001
+    100006: CabinetDrawers_003
+    100008: Feet
+    100010: Knob
+    100012: Knob_001
+    100014: Knob_002
+    100016: Knob_003
+    100018: LeftDoor
+    100020: RightDoor
+    100022: Cylinder
+    100024: Keyhole
+    100026: KeyholeInterior
+    100028: Keyhole_001
+    400000: //RootNode
+    400002: CabinetBody
+    400004: CabinetDrawers_001
+    400006: CabinetDrawers_003
+    400008: Feet
+    400010: Knob
+    400012: Knob_001
+    400014: Knob_002
+    400016: Knob_003
+    400018: LeftDoor
+    400020: RightDoor
+    400022: Cylinder
+    400024: Keyhole
+    400026: KeyholeInterior
+    400028: Keyhole_001
+    2300000: CabinetBody
+    2300002: CabinetDrawers_001
+    2300004: CabinetDrawers_003
+    2300006: Feet
+    2300008: Knob
+    2300010: Knob_001
+    2300012: Knob_002
+    2300014: Knob_003
+    2300016: LeftDoor
+    2300018: RightDoor
+    2300020: Cylinder
+    2300022: Keyhole
+    2300024: KeyholeInterior
+    2300026: Keyhole_001
+    3300000: CabinetBody
+    3300002: CabinetDrawers_001
+    3300004: CabinetDrawers_003
+    3300006: Feet
+    3300008: Knob
+    3300010: Knob_001
+    3300012: Knob_002
+    3300014: Knob_003
+    3300016: LeftDoor
+    3300018: RightDoor
+    3300020: Cylinder
+    3300022: Keyhole
+    3300024: KeyholeInterior
+    3300026: Keyhole_001
+    4300000: LeftDoor
+    4300002: Knob_002
+    4300004: Feet
+    4300006: CabinetDrawers_003
+    4300008: Knob_001
+    4300010: CabinetDrawers_001
+    4300012: Knob
+    4300014: RightDoor
+    4300016: Knob_003
+    4300018: CabinetBody
+    4300020: Cylinder
+    4300022: Keyhole
+    4300024: KeyholeInterior
+    4300026: Keyhole_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

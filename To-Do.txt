@@ -1,0 +1,11 @@
+-Credits
+-Make it clear when key failed
+-TV seems to come 'only out the right'
+-Increase box on silver key, potentially bring up floorbox
+-Cabinet doors should not push character around
+-Options screen with FOV and mouse sensitivity and exit, unbind quit from escape
+-Can immediately go down again in the elevator
+-Can click the open door button through the vault
+-Can click the call button multiple times to lock the door
+-Grow/Shrink pencil size with Q/E
+-Touch up hinge weight on poster, couldn't peel off wall easily enough.

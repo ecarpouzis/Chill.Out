@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 46687a443e272cb45b0402327af28098
+timeCreated: 1452734573
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BackWall
+    100004: Ceiling
+    100006: Floor
+    100008: FrontWall
+    100010: LeftWall
+    100012: RightWall
+    100014: RightWall_001
+    100016: RightWall_002
+    100018: RightWall_003
+    100020: RightWall_004
+    100022: FrontWall_001
+    100024: FrontWall_002
+    100026: FrontWall_003
+    100028: FrontWall_004
+    400000: //RootNode
+    400002: BackWall
+    400004: Ceiling
+    400006: Floor
+    400008: FrontWall
+    400010: LeftWall
+    400012: RightWall
+    400014: RightWall_001
+    400016: RightWall_002
+    400018: RightWall_003
+    400020: RightWall_004
+    400022: FrontWall_001
+    400024: FrontWall_002
+    400026: FrontWall_003
+    400028: FrontWall_004
+    2300000: //RootNode
+    2300002: BackWall
+    2300004: Ceiling
+    2300006: Floor
+    2300008: FrontWall
+    2300010: LeftWall
+    2300012: RightWall
+    2300014: RightWall_001
+    2300016: RightWall_002
+    2300018: RightWall_003
+    2300020: RightWall_004
+    2300022: FrontWall_001
+    2300024: FrontWall_002
+    2300026: FrontWall_003
+    2300028: FrontWall_004
+    3300000: //RootNode
+    3300002: BackWall
+    3300004: Ceiling
+    3300006: Floor
+    3300008: FrontWall
+    3300010: LeftWall
+    3300012: RightWall
+    3300014: RightWall_001
+    3300016: RightWall_002
+    3300018: RightWall_003
+    3300020: RightWall_004
+    3300022: FrontWall_001
+    3300024: FrontWall_002
+    3300026: FrontWall_003
+    3300028: FrontWall_004
+    4300000: Cube
+    4300002: Floor
+    4300004: FrontWall
+    4300006: RightWall
+    4300008: BackWall
+    4300010: LeftWall
+    4300012: Ceiling
+    4300014: RightWall_001
+    4300016: RightWall_004
+    4300018: RightWall_003
+    4300020: RightWall_002
+    4300022: FrontWall_001
+    4300024: FrontWall_002
+    4300026: FrontWall_003
+    4300028: FrontWall_004
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

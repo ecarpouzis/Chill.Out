@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 80b32db1e0005f04697c510bea9014b6
+timeCreated: 1451950426
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube
+    100002: //RootNode
+    100004: Sofa
+    100006: SofaFoot
+    100008: SofaFoot_001
+    100010: SofaFoot_002
+    100012: SofaFoot_003
+    100014: SofaFoot_004
+    100016: SofaFoot_005
+    100018: SofaFoot_006
+    100020: SofaFoot_007
+    100022: SofaFoot_008
+    100024: Cube_001
+    100026: Cube_002
+    100028: Cube_003
+    400000: Cube
+    400002: //RootNode
+    400004: Sofa
+    400006: SofaFoot
+    400008: SofaFoot_001
+    400010: SofaFoot_002
+    400012: SofaFoot_003
+    400014: SofaFoot_004
+    400016: SofaFoot_005
+    400018: SofaFoot_006
+    400020: SofaFoot_007
+    400022: SofaFoot_008
+    400024: Cube_001
+    400026: Cube_002
+    400028: Cube_003
+    2300000: Cube
+    2300002: Sofa
+    2300004: SofaFoot
+    2300006: SofaFoot_001
+    2300008: SofaFoot_002
+    2300010: SofaFoot_003
+    2300012: SofaFoot_004
+    2300014: SofaFoot_005
+    2300016: SofaFoot_006
+    2300018: SofaFoot_007
+    2300020: SofaFoot_008
+    2300022: Cube_001
+    2300024: Cube_002
+    2300026: Cube_003
+    3300000: Cube
+    3300002: Sofa
+    3300004: SofaFoot
+    3300006: SofaFoot_001
+    3300008: SofaFoot_002
+    3300010: SofaFoot_003
+    3300012: SofaFoot_004
+    3300014: SofaFoot_005
+    3300016: SofaFoot_006
+    3300018: SofaFoot_007
+    3300020: SofaFoot_008
+    3300022: Cube_001
+    3300024: Cube_002
+    3300026: Cube_003
+    4300000: Cube
+    4300002: SofaFoot_008
+    4300004: SofaFoot_007
+    4300006: SofaFoot_006
+    4300008: SofaFoot_005
+    4300010: SofaFoot_004
+    4300012: SofaFoot_003
+    4300014: SofaFoot_002
+    4300016: SofaFoot_001
+    4300018: SofaFoot
+    4300020: Sofa
+    4300022: Cube_003
+    4300024: Cube_002
+    4300026: Cube_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
