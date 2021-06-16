@@ -3,6 +3,7 @@
 Chill Out was my entry into the 2016 Little Awful Jam, a two-week game jam with the theme of 'Chill'. Chill Out won the Jam, and led to further opportunities for Flatbox Studios.
 
 [Video Playthrough](https://www.youtube.com/watch?v=iCu9sh_6b0k):
+
 [![Chill Out](ChillOutYoutubeThumb.png)](https://youtu.be/iCu9sh_6b0k "Chill Out")
 
 [Video of the judges playthrough](https://youtu.be/-XeKaYpX4W8?list=PLvsRQ9bQ1QDPDQAN2DNRjz5AYpXCbq0FX&t=2161)
